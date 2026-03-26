@@ -3812,14 +3812,14 @@
     ]
   },
   "ARK-0": {
-    "dinostringref": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP_C",
+    "dinostringref": "Blueprint'/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP'",
     "dinonametag": "Achatina",
     "dinodescription": "Arkology Achatina",
     "hasegg": false,
     "tameable": true,
     "isalpha": false,
     "isboss": false,
-    "softdinoclass": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP_C",
+    "softdinoclass": "Blueprint'/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Achatina/ARKOLOGY_Achatina_Character_BP.ARKOLOGY_Achatina_Character_BP'",
     "possiblestats": [
       0,
       1,
@@ -3831,14 +3831,14 @@
     ]
   },
   "ARK-1": {
-    "dinostringref": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Allo/Arkology_Allo_Character_BP.Arkology_Allo_Character_BP_C",
+    "dinostringref": "Blueprint'/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Allo/Arkology_Allo_Character_BP.Arkology_Allo_Character_BP'",
     "dinonametag": "Allo",
     "dinodescription": "Arkology Allosaurus",
     "hasegg": true,
     "tameable": true,
     "isalpha": false,
     "isboss": false,
-    "softdinoclass": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Allo/Arkology_Allo_Character_BP.Arkology_Allo_Character_BP_C",
+    "softdinoclass": "Blueprint'/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Allo/Arkology_Allo_Character_BP.Arkology_Allo_Character_BP'",
     "possiblestats": [
       0,
       1,
