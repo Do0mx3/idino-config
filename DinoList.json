@@ -9194,7 +9194,7 @@
     ]
   },
   "SD-18": {
-    "dinostringref": "SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
+    "dinostringref": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
     "dinonametag": "S-Wyvern",
     "dinodescription": "S-Fire Wyvern",
     "hasegg": true,
