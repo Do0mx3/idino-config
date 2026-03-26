@@ -617,14 +617,14 @@
     ]
   },
   "BD-33": {
-    "dinostringref": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+    "dinostringref": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Titanosaur/Arkology_Titanosaur_Character_BP.Arkology_Titanosaur_Character_BP_C",
     "dinonametag": "Titan",
     "dinodescription": "Titanosaur",
     "hasegg": false,
     "tameable": true,
     "isalpha": false,
     "isboss": false,
-    "softdinoclass": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+    "softdinoclass": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Titanosaur/Arkology_Titanosaur_Character_BP.Arkology_Titanosaur_Character_BP_C",
     "possiblestats": [
       0,
       1,
