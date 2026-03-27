@@ -1,0 +1,144 @@
+{
+	"Pdx-0":
+	{
+		"GS-0":
+		{
+			"tag": "Idino_Normal",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "Dino's - Tier III",
+			"description": "Dino's der Kategorie Tier 3. Suche dir einen Dino aus. Alle Dinos haben Random Werte. Du kannst das Geschlecht und die Farbe selber entscheiden.",
+			"statbase": "0,0,449,1,",
+			"reducepointschoosen": [],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 29,
+			"dinoname": "Triceratops",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 518,
+			"dinoname": "S-Triceratops",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		}
+	},
+	"Pdx-1":
+	{
+		"GS-1":
+		{
+			"tag": "Idino_Advance",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "Dinos - Tier II",
+			"description": "Dino's der Kategorie Tier 2. Suche dir einen Dino aus. Alle Dinos haben Random Werte. Du kannst das Geschlecht und die Farbe selber entscheiden.",
+			"statbase": "0,0,449,1,",
+			"reducepointschoosen": [],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 2,
+			"dinoname": "Rex",
+			"forpillartag": "Idino_Advance",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 81,
+			"dinoname": "Mosasaurus",
+			"forpillartag": "Idino_Advance",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		}
+	},
+	"Pdx-2":
+	{
+		"GS-2":
+		{
+			"tag": "Idino_Wild",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "Wilde Dino's",
+			"description": "Hiermit kannst du die einen Wilden Dino auf Level 300 spawnen. Nach der Aktivierung, beginnt ein 10 Sekunden Timer. ",
+			"statbase": "0,75,300,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 1,
+			"dinoname": "Allosaurus",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		}
+	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "Dinos - Tier I",
+			"description": "Dino's der Kategorie Tier 1. Suche dir einen Dino aus. Alle Dinos haben Random Werte. Du kannst das Geschlecht und die Farbe selber entscheiden.",
+			"statbase": "0,0,449,1,",
+			"reducepointschoosen": [],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 136,
+			"dinoname": "Carcharodontosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 104,
+			"dinoname": "Giganotosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-2":
+		{
+			"dinoindex": 24,
+			"dinoname": "Tusoteuthis",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		}
+	}
+}
