@@ -109,6 +109,116 @@
 		},
 		"DS-0":
 		{
+			"dinoindex": 222,
+			"dinoname": "Arkology Carcharodontosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 251,
+			"dinoname": "Arkology Fasolasuchus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-2":
+		{
+			"dinoindex": 257,
+			"dinoname": "Arkology Giganotosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-3":
+		{
+			"dinoindex": 283,
+			"dinoname": "Arkology Managarmr",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-4":
+		{
+			"dinoindex": 325,
+			"dinoname": "Arkology Reaper King",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-5":
+		{
+			"dinoindex": 329,
+			"dinoname": "Arkology Rhyniognatha",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-6":
+		{
+			"dinoindex": 330,
+			"dinoname": "Arkology Rock Drake",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-7":
+		{
+			"dinoindex": 339,
+			"dinoname": "Arkology Shastasaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-8":
+		{
+			"dinoindex": 355,
+			"dinoname": "Arkology Tusoteuthis",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-9":
+		{
+			"dinoindex": 529,
+			"dinoname": "Aureliax",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-10":
+		{
 			"dinoindex": 136,
 			"dinoname": "Carcharodontosaurus",
 			"forpillartag": "Idino_Event",
@@ -118,7 +228,18 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-1":
+		"DS-11":
+		{
+			"dinoindex": 173,
+			"dinoname": "Fasolasuchus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-12":
 		{
 			"dinoindex": 104,
 			"dinoname": "Giganotosaurus",
@@ -129,7 +250,205 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-2":
+		"DS-13":
+		{
+			"dinoindex": 162,
+			"dinoname": "Managarmr",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-14":
+		{
+			"dinoindex": 158,
+			"dinoname": "Mek",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-15":
+		{
+			"dinoindex": 197,
+			"dinoname": "Oasisaur",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-16":
+		{
+			"dinoindex": 530,
+			"dinoname": "Ossidon",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-17":
+		{
+			"dinoindex": 9,
+			"dinoname": "Phoenix",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-18":
+		{
+			"dinoindex": 178,
+			"dinoname": "Reaper King",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-19":
+		{
+			"dinoindex": 52,
+			"dinoname": "Rhyniognatha",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-20":
+		{
+			"dinoindex": 177,
+			"dinoname": "Rock Drake",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-21":
+		{
+			"dinoindex": 477,
+			"dinoname": "S-Carcharodontosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-22":
+		{
+			"dinoindex": 489,
+			"dinoname": "S-Fasolasuchus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-23":
+		{
+			"dinoindex": 497,
+			"dinoname": "S-Managarmr",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-24":
+		{
+			"dinoindex": 503,
+			"dinoname": "S-Ossidon",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-25":
+		{
+			"dinoindex": 509,
+			"dinoname": "S-Reaper King",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-26":
+		{
+			"dinoindex": 511,
+			"dinoname": "S-Rhyniognatha",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-27":
+		{
+			"dinoindex": 512,
+			"dinoname": "S-Rock Drake",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-28":
+		{
+			"dinoindex": 0,
+			"dinoname": "Shastasaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-29":
+		{
+			"dinoindex": 106,
+			"dinoname": "Tek Giganotosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-30":
+		{
+			"dinoindex": 33,
+			"dinoname": "Titanosaur",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-31":
 		{
 			"dinoindex": 24,
 			"dinoname": "Tusoteuthis",
