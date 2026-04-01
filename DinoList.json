@@ -6538,5 +6538,17 @@
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP.LostCharge_LanternPet_Char_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-545":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C",
+		"dinonametag": "AcroAA",
+		"dinodescription": "Acrocanthosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
